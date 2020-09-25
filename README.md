@@ -1,2 +1,2 @@
 # python-pointcloud-functions
-generally used pointcloud fucntions
+Point cloud registration functions
